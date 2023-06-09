@@ -1,0 +1,126 @@
+@media screen and (min-width: 1024px) {
+  .mobile-nav {
+    display: none;
+  }
+
+  .small-tablet-nav {
+    width: 1024px;
+    height: 96px;
+    margin-bottom: 44px;
+  }
+
+  h1 {
+    font-size: 56px;
+    width: 630px;
+    height: 120px;
+  }
+
+  .header-p {
+    width: 370px;
+    height: 20px;
+    display: inline;
+    margin-left: 20px;
+  }
+
+  .h3-header-normal {
+    width: 630px;
+    height: 56px;
+  }
+
+  .header-text-part {
+    padding-right: 197px;
+    padding-left: 197px;
+    margin-bottom: 68px;
+  }
+
+  .header-button {
+    width: 100px;
+    height: 48px;
+  }
+
+  .first-img {
+    width: 960px;
+    height: 450px;
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+
+  .header-ul {
+    display: flex;
+    width: 1024px;
+    height: 254px;
+    justify-content: space-around;
+  }
+
+  .h3-header-normal {
+    height: 56px;
+    width: 630px;
+  }
+
+  .h4-header {
+    width: 279px;
+    height: 120px;
+  }
+
+  .section-first {
+    width: 1024px;
+    height: 895px;
+    padding-top: 32px;
+    padding-bottom: 64px;
+  }
+
+  .second-img {
+    width: 960px;
+    height: 550px;
+    margin-bottom: 64px;
+  }
+
+  .h4-section-first {
+    width: 415px;
+    height: 96px;
+    text-align: left;
+  }
+
+  .p-section-first {
+    width: 415px;
+    height: 48px;
+    text-align: left;
+  }
+
+  .list-section-first {
+    width: 415px;
+    height: 120px;
+    text-align: left;
+  }
+
+  .text-div {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .second-section {
+    width: 1024px;
+    height: 588px;
+    background-image: url(assets-for-task-9/largetab.jpg);
+    
+  }
+
+  h2 {
+    width: 600px;
+    height: 96px;
+  }
+
+  .fourth-ul {
+    display: none;
+  }
+
+  footer {
+    width: 1024px;
+    height: 309px;
+    padding-left: 32px;
+  }
+
+  .ul-div {
+    gap: 130px;
+  }
+}

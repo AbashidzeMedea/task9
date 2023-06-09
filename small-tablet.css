@@ -1,0 +1,139 @@
+@media screen and (min-width: 744px) {
+  .mobile-nav {
+    display: none;
+  }
+
+  .small-tablet-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 96px;
+    width: 744px;
+  }
+  .nav-button {
+    background-color: black;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 48px;
+    border-radius: 32px;
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .small-tablet-nav ul {
+    display: inline-block;
+  }
+
+  .small-tablet-nav li {
+    display: inline-block;
+  }
+
+  .small-tablet-nav a {
+    color: black;
+    font-weight: 500;
+    padding-right: 20px;
+  }
+
+  h1 {
+    width: 696px;
+    height: 49px;
+  }
+
+  .h3-header-normal {
+    width: 696px;
+    height: 56px;
+  }
+
+  .header-p {
+    width: 696px;
+    height: 28px;
+  }
+
+  .first-img {
+    width: 696px;
+    height: 499px;
+  }
+
+  .h4-header {
+    width: 744px;
+    height: 48px;
+  }
+
+  .header-button {
+    width: 90px;
+    height: 40px;
+  }
+
+  .section-first {
+    width:744px;
+    height:917px;
+  }
+
+  .second-img, .h4-section-first, .p-section-first {
+    margin-bottom: 29px;
+  }
+
+  .second-img {
+    width: 696px;
+    height: 550px;
+  }
+
+  .h4-section-first {
+    font-size: 24px;
+    width: 696px;
+    height: 64px;
+  }
+
+  .p-section-first {
+    font-size:16px;
+    width: 696px;
+    height: 48px;
+  }
+
+  .list-section-first {
+    font-size: 16px;
+    width: 696px;
+    height: 120px;
+    margin-top:29px;
+    line-height: 30px;
+  }
+
+  .second-section {
+    width: 744px;
+    height:500px;
+    background-image:url(assets-for-task-9/smalltab.jpg)
+
+
+}
+
+h2 {
+    font-size: 40px;
+    width: 744px;
+    height: 96px;
+    
+  }
+
+  .fourth-ul {
+    display: none;
+  }
+
+  footer {
+    width: 744px;
+    height: 242.46px;
+    align-items: flex-start;
+    padding-left: 22px;
+    
+  }
+
+  .ul-div ul {
+    text-align: left;
+  }
+
+  .ul-div {
+    gap: 61px;
+  }
+
+
+
+}

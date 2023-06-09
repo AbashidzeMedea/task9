@@ -1,0 +1,142 @@
+@media screen and (min-width: 1440px) {
+  .small-tablet-nav {
+    width: 1440px;
+    height: 96px;
+    justify-content: space-between;
+  }
+
+  .header-p {
+    display: inline-block;
+    width: 236px;
+    height: 40px;
+  }
+
+  .header-flex {
+    display: flex;
+    width: 1440px;
+    height: 556px;
+    padding-left: 100px;
+    padding-right: 150px;
+  }
+
+  h1 {
+    width: 490px;
+    height: 120px;
+    text-align: left;
+  }
+
+  .h3-header-normal {
+    width: 490px;
+    height: 56px;
+    text-align: left;
+  }
+
+  .first-img {
+    width: 490px;
+    height: 428px;
+    margin: auto;
+  }
+
+  .header-text-part {
+    padding: 0px;
+    margin: 0;
+    margin: auto;
+  }
+
+  .h4-header {
+    width: 360px;
+    height: 72px;
+    text-align: left;
+  }
+
+  .header-ul {
+    width: 1440px;
+    height: 256px;
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+
+  .button-and-text {
+    display: flex;
+  }
+
+  .list-item {
+    justify-content: flex-start;
+  }
+
+  li {
+    margin: auto;
+  }
+
+  .section-first {
+    width: 1440px;
+    height: 620px;
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+
+  .second-img {
+    width: 503px;
+    height: 428px;
+  }
+
+  .h4-section-first {
+    width: 503px;
+    height: 64px;
+  }
+
+  .p-section-first {
+    width: 503px;
+    height: 48px;
+  }
+
+  .list-section-first {
+    width: 503px;
+    height: 120px;
+  }
+
+  .section-first {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .text-div {
+    display: inline-block;
+    padding-top: 70px;
+  }
+
+  .second-section {
+    width: 1440px;
+    height: 566px;
+    background-image: url(assets-for-task-9/desktop.jpg);
+  }
+
+  h2 {
+    width: 540px;
+  }
+
+  .fourth-ul {
+    display: inline-block;
+    width: 228px;
+  }
+
+  footer {
+    width: 1440px;
+    height: 396px;
+    flex-direction: row;
+    align-items: center;
+    gap: 127px;
+  }
+
+  footer a {
+    height: 168px;
+  }
+
+  .ul-div ul {
+    width: 228px;
+  }
+
+  .ul-div {
+    gap: 0px;
+  }
+}

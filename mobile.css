@@ -1,0 +1,230 @@
+@media screen and (min-width: 375px) {
+  .mobile-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 23px;
+    padding-top: 23px;
+  }
+
+  .small-tablet-nav {
+    display: none;
+  }
+
+  h1,
+  .h3-header-normal,
+  .header-p {
+    margin-bottom: 24px;
+  }
+
+  .header-first {
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+
+  h1 {
+    font-size: 40px;
+    font-weight: 900;
+    width: 327px;
+    line-height: 48px;
+    color: black;
+  }
+
+  .h3-header-normal {
+    color: black;
+    font-weight: 400;
+    line-height: 28px;
+    width: 327px;
+  }
+
+  .header-text-part {
+    text-align: center;
+    margin: auto;
+  }
+
+  .header-button {
+    background-color: black;
+    color: white;
+    border: none;
+    width: 90px;
+    height: 40px;
+    border-radius: 32px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 16px;
+  }
+  .header-p {
+    line-height: 28px;
+    width: 327px;
+    height: 56px;
+    font-weight: 600;
+  }
+
+  .first-img {
+    width: 327px;
+    height: 309px;
+    margin-bottom: 21px;
+  }
+
+  .list-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 16px;
+  }
+
+  .list-name {
+    margin-left: 16px;
+  }
+
+  .h4-header {
+    font-weight: lighter;
+    width: 327px;
+    height: 72px;
+    text-align: center;
+    margin: auto;
+    color: black;
+  }
+
+  .header-ul {
+    background: rgba(243, 243, 243, 1);
+  }
+
+  .section-first {
+    width: 375;
+    height: 523;
+    background-color: black;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+
+  .section-first p,
+  h4,
+  .list-section-first {
+    color: white;
+    margin: auto;
+  }
+
+  .second-img,
+  .h4-section-first,
+  .p-section-first {
+    margin-bottom: 14px;
+  }
+
+  .second-img {
+    width: 327px;
+    height: 195px;
+  }
+
+  .h4-section-first {
+    font-weight: 900;
+    width: 327px;
+    height: 64px;
+    line-height: 32px;
+  }
+
+  .p-section-first {
+    font-size: 14px;
+    width: 327px;
+    height: 72px;
+    line-height: 24px;
+  }
+
+  .list-section-first {
+    font-weight: 14px;
+    width: 327px;
+    height: 102px;
+    margin-top: 14px;
+    line-height: 24px;
+  }
+
+  .second-section {
+    display: flex;
+    width:375px;
+    height:500px;
+    background-image: url(assets-for-task-9/mobile.jpg);
+  }
+
+  .content {
+    margin: auto;
+    text-align: center;
+  }
+
+  .h4-second-section, h2 {
+    color: white;
+  }
+
+  .h4-second-section {
+    font-weight: 500;
+    margin-bottom: 12px;
+  }
+
+  h2 {
+    font-size: 28px;
+    font-weight: 900px; 
+    line-height:48px;
+    width: 247px;
+    height: 144px;
+    margin-bottom: 12px;
+  }
+
+  
+
+  .button-second-section {
+    width:84px;
+    height:40px;
+    background-color: white;
+    color: black;
+    border-radius: 24px;
+    border: none;
+    font-size: 16px;
+    font-weight: 700;
+  }
+
+  .fourth-ul {
+    display: none;
+  }
+
+  footer {
+    width: 375px;
+    height:340px;
+    display: flex;
+    background-color: black;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .ul-div {
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    gap: 10px;
+
+    
+  }
+
+  .ul-div ul {
+    width: 98px;
+    height: 168px;
+    text-align: center;
+    
+  }
+
+  ul a {
+    color: white;
+  }
+
+  .ul-div ul li {
+    line-height: 25px;
+  }
+
+  .ul-name {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 16px;
+  }
+
+}
